@@ -1,3 +1,2 @@
-first text file
-
-Some second text in first file
+Some third text in this file
+Change text in this file
